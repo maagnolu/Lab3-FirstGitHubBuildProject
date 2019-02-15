@@ -12,4 +12,4 @@ LAst line
 
 test
 
-funziona?
+PROVA TRIGGER
